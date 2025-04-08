@@ -20,50 +20,36 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages & Frameworks
+#### 💻 Languages & Frameworks  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=light" /><br/>Java
-  <img src="https://skillicons.dev/icons?i=python&theme=light" /><br/>Python
-  <img src="https://skillicons.dev/icons?i=cpp&theme=light" /><br/>C++
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=light" /><br/>.NET
-  <img src="https://skillicons.dev/icons?i=spring&theme=light" /><br/>Spring Boot
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" /><br/>Node.js
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,dotnet,spring,nodejs&theme=light" />
 </p>
 
-#### ☁️ DevOps & Cloud
+#### ☁️ DevOps & Cloud  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=githubactions&theme=light" /><br/>GitHub Actions
-  <img src="https://skillicons.dev/icons?i=jenkins&theme=light" /><br/>Jenkins
-  <img src="https://skillicons.dev/icons?i=docker&theme=light" /><br/>Docker
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" /><br/>Kubernetes
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>AWS
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /><br/>Terraform
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker,kubernetes&theme=light" />
+  <br />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
-#### 🔍 Monitoring, Security & Testing
+#### 🔍 Monitoring, Security & Testing  
 <p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /><br/>Prometheus
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /><br/>Grafana
-  <img src="https://img.shields.io/badge/Trivy-5F7ADB?style=for-the-badge&logo=aquasecurity&logoColor=white" /><br/>Trivy
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" /><br/>OWASP
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" /><br/>k6
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-5F7ADB?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
 </p>
 
-#### 🧠 Databases
+#### 🧠 Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" /><br/>MongoDB
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" /><br/>MySQL
-  <img src="https://skillicons.dev/icons?i=postgres&theme=light" /><br/>PostgreSQL
-  <img src="https://skillicons.dev/icons?i=mssql&theme=light" /><br/>MS SQL Server
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,mssql&theme=light" />
 </p>
 
-#### 📱 Mobile & Web
+#### 📱 Mobile & Web  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter&theme=light" /><br/>Flutter
-  <img src="https://skillicons.dev/icons?i=react&theme=light" /><br/>React
-  <img src="https://skillicons.dev/icons?i=js&theme=light" /><br/>JavaScript
-  <img src="https://skillicons.dev/icons?i=html&theme=light" /><br/>HTML
-  <img src="https://skillicons.dev/icons?i=css&theme=light" /><br/>CSS
+  <img src="https://skillicons.dev/icons?i=flutter,react,js,html,css&theme=light" />
 </p>
 
 ---
