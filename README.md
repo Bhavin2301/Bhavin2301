@@ -1,69 +1,82 @@
 <h1 align="center">Hi 👋, I'm Bhavin Makwana</h1>
-<h3 align="center">☁️ Cloud & DevOps Enthusiast | 🧑‍💻 Flutter & Full Stack Developer</h3>
+<h3 align="center">☁️ DevOps & Cloud Enthusiast | 🧑‍💻 Full Stack & Flutter Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhavin2301&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Bhavin2301&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final-year B.Tech Computer Science student @ DDU  
+- 🎓 Final Year B.Tech in CSE @ DDU  
 - ☁️ Cloud Intern @ BISAG-N, Gandhinagar  
-- 🔁 Passionate about **DevOps | CI/CD | Cloud | Full Stack Development**  
-- 📱 Built a **Bus Route Finder App** using Flutter, Node.js, MongoDB, and AWS  
-- 💬 Ask me about: `Flutter`, `Docker`, `GitHub Actions`, `AWS`, `Java`, `Node.js`  
-- 📫 Reach me at: **makbhavin23@gmail.com**
+- 📱 Built a Smart Bus Route Finder using Flutter + Node.js + MongoDB  
+- ⚙️ Skilled in CI/CD, Docker, AWS, GitHub Actions, Kubernetes  
+- 💡 Constant learner of new tech in DevOps, Cloud, and Mobile Development  
+- 📫 Reach me at: `makbhavin23@gmail.com`
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🖥️ Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+### 🖥️ Languages, Frameworks & Libraries
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
 </p>
 
-### 🚀 DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" />
 </p>
+
+---
 
 ### 🔐 Monitoring | Security | Testing
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-5F7ADB?style=for-the-badge&logo=trivy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white" />
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/owasp/owasp-icon.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/static/img/logo.png" height="40" />
+  <img src="https://raw.githubusercontent.com/grafana/k6/main/docs/static/logo.svg" height="40" />
 </p>
+
+---
 
 ### 🗃️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="40" />
 </p>
 
-### 📱 Mobile & Web
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+---
+
+### 🌐 Web, Mobile & UI
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" height="40" />
 </p>
 
 ---
@@ -71,8 +84,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavin2301&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavin2301&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavin2301&show_icons=true&theme=react" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavin2301&layout=compact&theme=react" height="180" />
 </p>
 
 ---
@@ -81,12 +94,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavin-makwana-a04a52205/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:makbhavin23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Bhavin2301" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
